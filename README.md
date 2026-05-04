@@ -1,8 +1,10 @@
 ## 👾 Hey, I'm Juliano
 
-<img src="https://raw.githubusercontent.com/juuhhhnzw-sys/juuhhhnzw-sys/main/banner.svg?v=2" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/juuhhhnzw-sys/juuhhhnzw-sys/main/banner.svg?v=4" />
+</p>
 
-```bash
+```bash id="7qf7j7"
 > whoami
 Backend Developer | Cybersecurity Enthusiast
 
@@ -18,10 +20,10 @@ Automation • System Design • Security Research
 
 ## 🧠 Profile
 
-```diff
-+ Developer focused on backend systems, automation and cybersecurity
-+ Strong interest in understanding internal system behavior
-+ Builder mindset: creating tools instead of relying only on existing ones
+```diff id="5gqf1c"
++ Backend-focused developer with strong interest in system internals
++ Builder mindset: creating tools and extensible systems
++ Focus on automation, security and scalable architectures
 ```
 
 ---
@@ -37,7 +39,7 @@ Automation • System Design • Security Research
 
 ## 🛠️ Tech Stack
 
-```yaml
+```yaml id="9p2rjv"
 Languages:
   - Python
   - Java
@@ -61,20 +63,38 @@ Concepts:
 
 ---
 
-## 🧩 Projects
+## 🚀 Featured Work
 
-```bash
-> security_tools
-Reconnaissance and analysis automation tools
+```bash id="2r0v5o"
+> HackOn Recon (in progress)
+Automated recon and analysis platform
 
-> backend_systems
-Modular backend architectures and API development
+- modular scanning architecture
+- multithreaded execution engine
+- risk scoring system (0–100)
+- structured reporting system
 
-> infrastructure
-Container-based environments and system orchestration
+> addon system
+- plugin-based architecture
+- dynamic module loading
+- extensible scanning pipeline
+- easy integration of new tools
 
-> ai_experiments
-Integration of AI into backend workflows
+> backend systems
+- clean architecture
+- reusable components
+- scalable design patterns
+```
+
+---
+
+## 🧩 Architecture Mindset
+
+```diff id="3m8x4p"
++ Designed systems to be extensible from the start
++ Focus on modularity over monolithic scripts
++ Separation of concerns between scanning, analysis and reporting
++ Plugin-based approach for scalability
 ```
 
 ---
@@ -82,9 +102,19 @@ Integration of AI into backend workflows
 ## 📚 Current Focus
 
 * Advanced backend architecture
-* Scalable and resilient systems
+* Scalable systems design
 * Security analysis techniques
 * AI-assisted development
+
+---
+
+## 🎯 Goals
+
+```diff id="2pfk7n"
++ Build production-grade systems
++ Develop advanced security tooling
++ Deepen expertise in system architecture
+```
 
 ---
 
@@ -94,13 +124,13 @@ Open to collaborating on:
 
 * Backend systems
 * Security-related tools
-* Automation projects
+* Automation platforms
 
 ---
 
 ## ⚠️ Disclaimer
 
-```diff
+```diff id="p5pjjc"
 - Security-related projects are intended for educational use only
 - Testing must be performed in authorized environments
 ```
