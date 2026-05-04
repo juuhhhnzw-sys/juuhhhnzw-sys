@@ -1,5 +1,9 @@
 ## 👾 Hey, I'm Juliano
 
+<p align="center">
+  <img src="./banner.svg" />
+</p>
+
 ```bash
 > whoami
 Backend Developer | Cybersecurity Enthusiast
