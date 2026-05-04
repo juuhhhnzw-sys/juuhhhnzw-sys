@@ -1,8 +1,6 @@
 ## 👾 Hey, I'm Juliano
 
-<p align="center">
-  <img src="./banner.svg" />
-</p>
+<img src="https://raw.githubusercontent.com/juuhhhnzw-sys/juuhhhnzw-sys/main/banner.svg?v=2" />
 
 ```bash
 > whoami
